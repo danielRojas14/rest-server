@@ -1,5 +1,5 @@
 const ctrlHome = {};
-const { findById, findByIdAndUpdate, findByIdAndDelete } = require('../models/notas');
+// const { findById, findByIdAndUpdate, findByIdAndDelete } = require('../models/notas');
 const nota = require('../models/notas');
 
 // Devuelve todos los usuarios de la colección
